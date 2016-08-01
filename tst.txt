@@ -1,0 +1,9 @@
+E:\proDemos\eclipse\workspace\JavaConsole\.classpath
+E:\proDemos\eclipse\workspace\JavaConsole\.project
+E:\proDemos\eclipse\workspace\JavaConsole\.settings
+E:\proDemos\eclipse\workspace\JavaConsole\bin
+E:\proDemos\eclipse\workspace\JavaConsole\fgfdgfdgfg.class
+E:\proDemos\eclipse\workspace\JavaConsole\out.txt
+E:\proDemos\eclipse\workspace\JavaConsole\src
+E:\proDemos\eclipse\workspace\JavaConsole\test.java
+E:\proDemos\eclipse\workspace\JavaConsole\tst.txt
